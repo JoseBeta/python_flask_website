@@ -1,0 +1,33 @@
+body {
+    background: #0B3C5D;
+    color: #ffffff;
+    margin-top: 5rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+  }
+
+  .bg-steel {
+    background-color: #1D2731;
+  }
+
+  .site-header .navbar-nav .nav-link {
+    color: rgb(76, 192, 163);
+  }
+
+  .site-header .navbar-nav .nav-link:hover {
+    color: #D9B310;
+  }
+
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+
+  .content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
